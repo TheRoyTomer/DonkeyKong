@@ -1,0 +1,10 @@
+Steps file:
+random seed
+number of Steps
+list of steps, each steps in seperate row, with iteration and string with key pressed.
+
+
+Results file:
+number of events
+list of events, each steps in seperate row, with iteration and  enum of event type.
+score
